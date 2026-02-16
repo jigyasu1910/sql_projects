@@ -1,2 +1,2 @@
 # sql_projects
-Projects that I tried to do to understand end to end application of ETL process and then using optimised SQL queries to solve problem statements.
+The project involved extracting data from Kaggle API and then transforming data in Python using pandas and then using optimised queries to find insights from the data.
